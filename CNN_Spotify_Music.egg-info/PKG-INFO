@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: CNN-Spotify-Music
+Version: 0.0.1
+Summary: Apache Beam pipeline that uses Convolutional Neural Networks to predict music genre from audio files
+Classifier: Intended Audience :: W207 - Fall 2022 - Section 04
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Experience :: Final Project
+Requires-Python: >=3.8
